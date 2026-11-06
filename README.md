@@ -1,5 +1,6 @@
 
 # Student Management System
+print("Hello World")
 
 A simple project to manage student information.
 
